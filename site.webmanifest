@@ -1,0 +1,16 @@
+{
+  "name": "DONKZILLA \u22120.0 | The Last Green Candle",
+  "short_name": "DONKZILLA",
+  "description": "Fictional kaiju meme-token story on Ethereum",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080B1D",
+  "theme_color": "#627EEA",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
